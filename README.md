@@ -13,7 +13,7 @@
 - Outside of the classroom, I have distinguished myself through my involvement in robotics and automation projects during the summer. These experiences have not only expanded my technical expertise but also nurtured my collaborative skills in multidisciplinary team environments.
 - I'm currently working on more web dev projects to improve and polish my JS, PHP, HTML5, and CSS3 skills.
 
-#⚡ Fun fact
+# ⚡ Fun fact
 I started my coding journey back in 2016 by learning Java as a first language (Java haters, I get you.) which then led me into robotics. My robotics team then landed Top 10 during 2020's world Olympics ([FIRST® Global Challenge](https://first.global/fgc/ "FIRST® Global Challenge"))
 
 ## 🌐 Socials:
