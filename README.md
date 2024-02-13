@@ -2,14 +2,14 @@
 # 💫 About Me:
 **Hello there, this is Barry!** Driven by my passion for innovation and problem-solving, I am committed to leveraging my knowledge and skills to make meaningful contributions to the field of computer science.
 
-#🔭 I'm currently working on:<br>
+# 🔭 I'm currently working on:<br>
 - Experimenting and working on a plethra of micro projects that include DL & ML.
 - committed to leveraging my knowledge and skills to make meaningful contributions to the field of computer science. While also focusing on my academic and professional journey, I remain eager to explore new challenges and opportunities in software development and data science.
 
-#📚 Education<br>
+# 📚 Education<br>
 **[The Open University](https://www.open.ac.uk/ "The Open University") - Bachelor's in Computer Science (2021- 2025)**: I'm currently pursuing a Bachelor's in Computer Science. Throughout my academic journey, I have honed my skills in various programming languages and technologies, with a particular focus on data science frameworks such as PyTorch and Pandas, as well as database programs like MongoDB and MySQL. I am proficient in deep learning and machine learning frameworks like TensorFlow, enabling me to tackle complex data analysis tasks with ease.
 
-#🌱 I'm currently learning<br>
+# 🌱 I'm currently learning<br>
 - Outside of the classroom, I have distinguished myself through my involvement in robotics and automation projects during the summer. These experiences have not only expanded my technical expertise but also nurtured my collaborative skills in multidisciplinary team environments.
 - I'm currently working on more web dev projects to improve and polish my JS, PHP, HTML5, and CSS3 skills.
 
