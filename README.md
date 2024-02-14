@@ -1,8 +1,8 @@
 ![alt text](https://aureatelabs.com/wp-content/uploads/2018/04/banner-Add-Custom-Validation-Rule-in-Magento-2.jpg)
-# 💫 About Me:
+# 💫 About Me
 **Hello there, this is Barry!** Driven by my passion for innovation and problem-solving, I am committed to leveraging my knowledge and skills to make meaningful contributions to the field of computer science.
 
-# 🔭 I'm currently working on:<br>
+# 🔭 I'm currently working on<br>
 - Experimenting and working on a plethra of micro projects that include DL & ML.
 - committed to leveraging my knowledge and skills to make meaningful contributions to the field of computer science. While also focusing on my academic and professional journey, I remain eager to explore new challenges and opportunities in software development and data science.
 
